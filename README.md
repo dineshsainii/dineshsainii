@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dineshsainii
-- 👀 I’m interested in Computer Vision, Deep Learning.
-- 🌱 I’m currently learning Object detection with Single Stage Detectors.
+- 👀 I’m interested in Telecommunication, 5G, LTE, Computer Vision, Deep Learning.
+- 🌱 I’m currently working in telecom domain and learning Object detection with Single Stage Detectors.
 - 💞️ I’m looking to collaborate on Object Detection.
 - 📫 Reach me on dineshsaini2804@yahoo.co.in, @dineshsainii
 
